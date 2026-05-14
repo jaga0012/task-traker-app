@@ -6,4 +6,4 @@ button.addEventListener("click", () => {
     alert("Task Added");
 });
 
-alert("New Task Added Successfully");
+alert("New Task Add Successfully");
